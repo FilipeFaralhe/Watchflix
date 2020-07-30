@@ -1,5 +1,9 @@
 import styled from "styled-components";
 
+//Transforma o button em link
+//import Link from 'react-router-dom';
+//styled(Link)
+
 //& comercial referencia o button
 const Button = styled.button`
   color: var(--white);
